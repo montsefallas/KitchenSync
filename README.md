@@ -4,6 +4,8 @@ KitchenSync is a senior project mobile app for collaborative grocery lists. The 
 
 KitchenSync was built with React Native, Expo, Firebase Authentication, and Firebase Firestore.
 
+Project by: Montserrad Fallas Ruiz, Diego Osorio, and Shenna Tawiah
+
 ---
 
 ## Features
